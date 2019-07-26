@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=[{"package"\:"esp32","platform"\:"esp32","library"\:"ESP32"},{"package"\:"esp32","platform"\:"esp32","library"\:"Preferences"},{"package"\:"esp32","platform"\:"esp32","library"\:"ESP32 BLE Arduino"},{"package"\:"esp32","platform"\:"esp32","library"\:"ESP32 Async UDP"},{"package"\:"esp32","platform"\:"esp32","library"\:"BluetoothSerial"},"DHT sensor library",{"package"\:"esp32","platform"\:"esp32","library"\:"WiFi"},"Adafruit Unified Sensor"]
